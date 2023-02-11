@@ -1,0 +1,9 @@
+### Create contact
+POST http://localhost:3000/signup
+content-type: application/json
+
+{
+    "name": "segiote",
+    "email":"noentiendo@gmail.com",
+    "password": "a2405198sdfjhskdjhfksjdhA4"
+}
